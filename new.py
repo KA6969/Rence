@@ -8,6 +8,7 @@ def usage():
     print "Command: " + sys.argv[0] + " <3.235.171.149> <7777> <9999999>"
     print "Jangan lupa subscribe channel https://youtube.com/channel/UCylMuQ-HgLfwsPEucwUux1Q"
     print "Jangan pake tools ini sembarangan ya, wajib subscribe dulu channel di atas "
+    print "DDOS By Rence"
 
 def flood(victim, vport, duration):
     # okay so here I create the server, when i say "SOCK_DGRAM" it means it's a UDP type program
